@@ -5,8 +5,12 @@ body{
 
 ul {
     list-style: none;
+    
 }
 
 li {
-    background-color: green;
-}0
+    transition: opacity 0.9s linear;
+    width: 400px;
+    margin: 0 auto;
+    line-height: 2;
+};
